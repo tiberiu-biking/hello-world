@@ -1,0 +1,5 @@
+# Project exclude paths
+/hello-world-api/target/
+/hello-world-client/target/
+/hello-world-server/target/
+/target/
